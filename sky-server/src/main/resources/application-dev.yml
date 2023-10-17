@@ -8,6 +8,6 @@ sky:
     password: admin
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: 
-    access-key-secret: 
+    access-key-id: LTAI5tRXdVo1QvtgQPrqSAz3
+    access-key-secret: L3oWMEM6TtIxkRWSUf4Nm0rr6C9wdK
     bucket-name: web-kang
