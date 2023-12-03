@@ -11,3 +11,8 @@ sky:
     access-key-id: 
     access-key-secret: 
     bucket-name: web-kang
+  redis:
+    host: localhost
+    port: 6379
+    password: admin
+    datebase: 1
